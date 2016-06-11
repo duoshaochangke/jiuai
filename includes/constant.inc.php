@@ -7,7 +7,6 @@
 	error_reporting(E_ALL^E_WARNING^E_NOTICE);  //关闭警告和通知
 	/*转换硬路径，引入文件速度比require快*/
 	define('ROOT_PATH',substr(dirname(__FILE__), 0,-9));
-	// root_path=/alidata/www/jiuai 
 
 	// 转义是否自动开启,开启返回true
 	// 不管magic_quotes_gpc是On还是Off，添加数据时都用addslashes()
