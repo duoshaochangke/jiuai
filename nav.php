@@ -59,9 +59,6 @@
 	<span>
 		&nbsp;&nbsp;&nbsp;&nbsp;久艾分享官方群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=457dead858ccbda1b670f91229e334695619cb9f891b433301ac3dd780d1ecaa"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="久艾分享" title="久艾分享"></a> 
 	</span>
-	<span style="color:red">
-		号外：旧版停止更新，请前往新版：<a href="http://www.92fenxiang.com/" style="color:red">久艾网新版</a>
-	</span>
 </div>
 <!-- 响应式导航 -->
 <div id="response-nav" class="minijianyingbikaishu">
