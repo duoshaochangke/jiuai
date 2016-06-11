@@ -1,0 +1,5 @@
+/*头部隐藏*/
+#top-header,#response-nav,.response-wrap,.res-details,#cat,#catarticles
+{
+	display: none;
+}
